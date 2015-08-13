@@ -41,11 +41,6 @@ p {
 .brain-logo {
 	width: 125px;
 	height: 125px;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	-ms-border-radius: 50%;
-	-o-border-radius: 50%;
-	border-radius: 50%;
 }
 #brain {
 	font-size: 48px;
