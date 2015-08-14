@@ -40,9 +40,9 @@
     <div id="particles-js">
 
       <div id="absolute" class="panel panel-enc text-center">
-        <p><img class="brain-logo" src="https://scontent-fra3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1003576_695453470475066_497014311_n.jpg?oh=412cc47a4d233b54589a16db158e943a&oe=563A2159"></p>
+        <p><img class="br-logo" src="https://scontent-fra3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1003576_695453470475066_497014311_n.jpg?oh=412cc47a4d233b54589a16db158e943a&oe=563A2159"></p>
         <p><span id="brain">LJ</span><span id="storage">Mocic</span></p>
-        <p>Building cool stuff!</p><br />
+        <p>When you're backed against the wall break the god damn thing down!</p><br />
         <p><a href="https://twitter.com/ljmocic"><i class="fa fa-twitter fa-2x"></i></a>  <a href="https://github.com/ljmocic"><i class="fa fa-github fa-2x"></i></i></a></p>
       </div>
 
